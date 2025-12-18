@@ -8,6 +8,8 @@ telegam: https://t.me/sysdba17 (предпочитаемый способ свя
 
 e-mail: yushkevich.a.a@yandex.ru
 
+oldRepo: [второй репозиторий](https://github.com/yushkevich-a-a)
+
 ---
 
 ## Технические навыки:
